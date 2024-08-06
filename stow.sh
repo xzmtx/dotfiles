@@ -16,3 +16,4 @@ stow tmux
 stow taskwarrior
 stow scripts
 stow zed
+stow fastfetch
